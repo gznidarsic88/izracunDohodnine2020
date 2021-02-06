@@ -1,0 +1,12 @@
+{
+  "name": "IzracunDohodnine2020",
+  "displayName": "IzracunDohodnine2020",
+  "expo": {
+    "name": "IzracunDohodnine2020",
+    "slug": "IzracunDohodnine2020",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
